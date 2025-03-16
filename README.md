@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rivaansh Yadav!  
 
-🚀 Full-Stack Developer | Mobile & Web Enthusiast  
+🚀 Full-Stack Developer | Mobile & Web App Developer  
 
 💡 Passionate about crafting innovative digital solutions.  
 🔍 Constantly exploring new technologies & improving my skills.  
