@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rivaansh!  
+# 👋 Hey, I'm Rivaansh Yadav!  
 
 🚀 Full-Stack Developer | Mobile & Web Enthusiast  
 
