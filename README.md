@@ -42,7 +42,7 @@
 
 ## 🚀 Some Projects I’ve Built  
 
-1️⃣ 📚 Eagle - LMS (Web)  
+1️⃣ 📚 Eagle-LMS (Web)  
 Library management system for book tracking and user management.  
 Tech: React.js, Django, MySQL  
 
