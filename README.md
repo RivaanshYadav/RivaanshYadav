@@ -17,21 +17,61 @@
 
 ## 🚀 Featured Projects  
 
-📚 Library Management System  
+1️⃣ 📚 Eagle - LMS (Web)  
+Library management system for book tracking and user management.  
 Tech: React.js, Django, MySQL  
-Features: Online book availability and reservation, AI-based book recommendations, AI chatbot for assistance, book management, borrow/return system  
 
-📝 Note-Taking App  
+2️⃣ 📝 Note App (Mobile)  
+A simple cloud-based note-taking application.  
 Tech: Flutter, Firebase  
-Features: Random colored cards on the home page, create/edit/update/delete notes, cloud sync for multi-device access  
 
-💬 WhatsApp Clone  
+3️⃣ 💬 Chat App (Mobile)  
+A real-time chat app with authentication and messaging.  
 Tech: Flutter, Firebase  
-Features: Real-time chat, end-to-end encryption, voice and video calling, media sharing, typing and online status indicators  
 
-🛒 E-commerce Website  
-Tech: React.js, Django  
-Features: Product listings with filters and search, shopping cart and secure checkout, user reviews and ratings, order tracking, admin dashboard for product management
+4️⃣ 🛍️ E-Shop (Web)  
+An e-commerce platform with secure checkout.  
+Tech: React.js, Django, MySQL   
+
+5️⃣ 📝 CollabDocs (Web)  
+Real-time document editing with live updates and access control.  
+Tech: React, Node.js, WebSockets, MongoDB  
+
+6️⃣ 📊 FinTrack AI (Mobile)  
+AI-powered expense tracking, budgeting, and predictions.  
+Tech: React Native, Python, Flask, Firebase  
+
+7️⃣ 🛒 DeFi Shop (Web)  
+Blockchain-based e-commerce with smart contracts and Web3.  
+Tech: React, Next.js, Solidity, Web3.js, MySQL  
+
+8️⃣ 📅 TaskFlow (Web)  
+Project management with Kanban, Gantt charts, and collaboration.  
+Tech: Angular, Node.js, Socket.IO, PostgreSQL  
+
+9️⃣ 🎓 LearnHub AI (Web)  
+Adaptive learning with AI-based recommendations and tracking.  
+Tech: React, Django, MongoDB  
+
+🔟 🛍️ SmartShop (Web)  
+E-commerce with AI recommendations and secure payments.  
+Tech: React, Node.js, MySQL  
+
+1️⃣1️⃣ 📈 DataViz (Web)  
+Interactive dashboards and real-time data visualization.  
+Tech: React, D3.js, Flask, PostgreSQL  
+
+1️⃣2️⃣ ⚡ API Hub (Backend)  
+REST & GraphQL API with authentication and documentation.  
+Tech: Node.js, Express, GraphQL, MongoDB  
+
+1️⃣3️⃣ 🎶 MusicGen AI (Web & Mobile)  
+AI-generated music with personalized playlists.  
+Tech: React Native, TensorFlow, Firebase  
+
+1️⃣4️⃣ 📉 Stock Predictor (Web)  
+AI-powered stock market trend analysis and forecasts.  
+Tech: React, Python, TensorFlow, Flask, PostgreSQL 
 
 
 ## 📫 How to Reach Me  
