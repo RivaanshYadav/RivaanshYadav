@@ -2,20 +2,45 @@
 
 🚀 Full-Stack Developer | Mobile & Web App Developer  
 
-💡 Passionate about crafting innovative digital solutions.  
-🔍 Constantly exploring new technologies & improving my skills.  
-📩 Open to freelance projects, collaborations, and new opportunities.  
+💡 Passionate about crafting innovative and scalable digital solutions.  
+🔍 Constantly exploring new technologies & enhancing my expertise.  
+📩 Open to freelance projects, collaborations, and exciting opportunities.  
 
-## 🛠 Tech Stack  
+## 🛠 Skills & Expertise  
 
-💻 Languages: Java, Python, Dart, Swift, Objective-C, Kotlin, JavaScript, SQL  
-🌐 Frontend: React.js, Angular, HTML, CSS, JavaScript  
-⚙️ Backend: Django, Flask, Node.js  
-📱 Mobile Development: Flutter, React Native, Android, iOS  
-🗄 Databases: MySQL, MongoDB, Firebase  
-🛠 Tools & Platforms: Git, GitHub, Postman, VS Code  
+ 🌐 Frontend Development  
+✔️ React.js, Angular, Next.js  
+✔️ HTML, CSS, JavaScript, TypeScript  
+✔️ UI/UX design for smooth user experiences  
 
-## 🚀 Featured Projects  
+ ⚙️ Backend Development  
+✔️ Django, Flask, Node.js, Express.js  
+✔️ REST & GraphQL API development  
+✔️ Scalable and secure backend architectures  
+
+ 📱 Mobile App Development  
+✔️ Flutter, React Native  
+✔️ Android (Java/Kotlin), iOS (Swift/Objective-C)  
+✔️ Cross-platform and native app development  
+
+ 🗄️ Database Management  
+✔️ MySQL, PostgreSQL, MongoDB, Firebase  
+✔️ Database optimization and performance tuning  
+
+ 💡 AI & Machine Learning  
+✔️ AI-driven recommendations and chatbots  
+✔️ TensorFlow, Scikit-learn  
+✔️ Predictive analytics and automation  
+
+ 🔗 Blockchain & Web3  
+✔️ Solidity, Web3.js, Smart Contracts  
+✔️ Ethereum, IPFS, Decentralized Apps (DApps)  
+
+ 🛠 DevOps & Tools  
+✔️ Git, GitHub, GitLab, Docker  
+✔️ Postman, VS Code, CI/CD  
+
+## 🚀 Some Projects I’ve Built  
 
 1️⃣ 📚 Eagle - LMS (Web)  
 Library management system for book tracking and user management.  
