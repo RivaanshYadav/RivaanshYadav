@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rivaansh Yadav!  
 
-🚀 Full-Stack Developer | Mobile & Web App Developer  
+🚀 Full-Stack Developer | Web & Mobile | AI, Blockchain & Web3 | Freelancer  
 
 💡 Passionate about crafting innovative and scalable digital solutions.  
 🔍 Constantly exploring new technologies & enhancing my expertise.  
