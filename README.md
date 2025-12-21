@@ -15,19 +15,19 @@ To design and develop reliable software solutions that solve real-world problems
 ### Skills & Expertise  
 
 Frontend Development  
-✔️ React.js, Angular, Next.js  
-✔️ HTML, CSS, JavaScript, TypeScript  
-✔️ UI/UX design for smooth user experiences  
+- React.js, Angular, Next.js  
+- HTML, CSS, JavaScript, TypeScript  
+- UI/UX design for smooth user experiences  
 
 Backend Development  
-✔️ Django, Flask, Node.js, Express.js  
-✔️ REST & GraphQL API development  
-✔️ Scalable and secure backend architectures  
+- Django, Flask, Node.js, Express.js  
+- REST & GraphQL API development  
+- Scalable and secure backend architectures  
 
 Mobile App Development  
-✔️ Flutter, React Native  
-✔️ Android (Java, Kotlin), iOS (Swift, Objective-C)  
-✔️ Cross-platform and native app development  
+- Flutter, React Native  
+- Android (Java, Kotlin), iOS (Swift, Objective-C)  
+- Cross-platform and native app development  
 
 Database Management  
 ✔️ MySQL, PostgreSQL, MongoDB, Firebase  
