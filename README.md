@@ -30,21 +30,21 @@ Mobile App Development
 - Cross-platform and native app development  
 
 Database Management  
-✔️ MySQL, PostgreSQL, MongoDB, Firebase  
-✔️ Database optimization and performance tuning  
+- MySQL, PostgreSQL, MongoDB, Firebase  
+- Database optimization and performance tuning  
 
 AI & Machine Learning  
-✔️ AI-driven recommendations and chatbots  
-✔️ TensorFlow, Scikit-learn  
-✔️ Predictive analytics and automation  
+- AI-driven recommendations and chatbots  
+- TensorFlow, Scikit-learn  
+- Predictive analytics and automation  
 
 Blockchain & Web3  
-✔️ Solidity, Web3.js, Smart Contracts  
-✔️ Ethereum, IPFS, Decentralized Apps (DApps)  
+- Solidity, Web3.js, Smart Contracts  
+- Ethereum, IPFS, Decentralized Apps (DApps)  
 
 DevOps & Tools  
-✔️ Git, GitHub, GitLab, Docker  
-✔️ Postman, VS Code, CI/CD
+- Git, GitHub, GitLab, Docker  
+- Postman, VS Code, CI/CD
 
 
 ## How to Reach Me  
