@@ -26,7 +26,7 @@ Backend Development
 
 Mobile App Development  
 ✔️ Flutter, React Native  
-✔️ Android (Java/Kotlin), iOS (Swift/Objective-C)  
+✔️ Android (Java, Kotlin), iOS (Swift, Objective-C)  
 ✔️ Cross-platform and native app development  
 
 Database Management  
