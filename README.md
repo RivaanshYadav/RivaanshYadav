@@ -12,39 +12,39 @@ Open to freelance projects, collaborations, and exciting opportunities.
 To design and develop reliable software solutions that solve real-world problems while continuously growing as a software engineer.
 
 
-### Skills & Expertise  
+### Skills & Expertise:  
 
-Frontend Development  
-- React.js, Angular, Next.js  
-- HTML, CSS, JavaScript, TypeScript  
-- UI/UX design for smooth user experiences  
+ Frontend Development  
+✔️ React.js, Angular, Next.js  
+✔️ HTML, CSS, JavaScript, TypeScript  
+✔️ UI/UX design for smooth user experiences  
 
-Backend Development  
-- Django, Flask, Node.js, Express.js  
-- REST & GraphQL API development  
-- Scalable and secure backend architectures  
+ Backend Development  
+✔️ Django, Flask, Node.js, Express.js  
+✔️ REST & GraphQL API development  
+✔️ Scalable and secure backend architectures  
 
 Mobile App Development  
-- Flutter, React Native  
-- Android (Java, Kotlin), iOS (Swift, Objective-C)  
-- Cross-platform and native app development  
+✔️ Flutter, React Native  
+✔️ Android (Java, Kotlin), iOS (Swift, Objective-C)  
+✔️ Cross-platform and native app development  
 
 Database Management  
-- MySQL, PostgreSQL, MongoDB, Firebase  
-- Database optimization and performance tuning  
+✔️ MySQL, PostgreSQL, MongoDB, Firebase  
+✔️ Database optimization and performance tuning  
 
 AI & Machine Learning  
-- AI-driven recommendations and chatbots  
-- TensorFlow, Scikit-learn  
-- Predictive analytics and automation  
+✔️ AI-driven recommendations and chatbots  
+✔️ TensorFlow, Scikit-learn 
+✔️ Predictive analytics and automation  
 
 Blockchain & Web3  
-- Solidity, Web3.js, Smart Contracts  
-- Ethereum, IPFS, Decentralized Apps (DApps)  
+✔️ Solidity, Web3.js, Smart Contracts  
+✔️ Ethereum, IPFS, Decentralized Apps (DApps)  
 
 DevOps & Tools  
-- Git, GitHub, GitLab, Docker  
-- Postman, VS Code, CI/CD
+✔️ Git, GitHub, GitLab, Docker  
+✔️ Postman, VS Code, CI/CD  
 
 
 ## How to Reach Me  
