@@ -48,5 +48,5 @@ DevOps & Tools
 
 
 ## How to Reach Me  
-💼 LinkedIn: Rivaansh Yadav  
-🌐 Portfolio Website: Coming Soon!  
+LinkedIn: Rivaansh Yadav  
+Portfolio Website: Coming Soon!  
