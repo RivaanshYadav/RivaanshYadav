@@ -7,12 +7,14 @@ Constantly exploring new technologies & enhancing my expertise.
 Open to freelance projects, collaborations, and exciting opportunities.  
 
 
+
 ### Career Objective
 
 To design and develop reliable software solutions that solve real-world problems while continuously growing as a software engineer.
 
 
-### Skills & Expertise:  
+
+### Skills & Expertise  
 
  Frontend Development  
 ✔️ React.js, Angular, Next.js  
@@ -37,6 +39,8 @@ AI & Machine Learning
 ✔️ AI-driven recommendations and chatbots  
 ✔️ TensorFlow, Scikit-learn 
 ✔️ Predictive analytics and automation  
+
+
 
 Blockchain & Web3  
 ✔️ Solidity, Web3.js, Smart Contracts  
