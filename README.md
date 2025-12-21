@@ -40,8 +40,6 @@ AI & Machine Learning
 ✔️ TensorFlow, Scikit-learn 
 ✔️ Predictive analytics and automation  
 
-
-
 Blockchain & Web3  
 ✔️ Solidity, Web3.js, Smart Contracts  
 ✔️ Ethereum, IPFS, Decentralized Apps (DApps)  
