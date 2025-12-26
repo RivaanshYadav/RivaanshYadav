@@ -8,33 +8,32 @@ I am a results-driven Full-Stack Developer specializing in web, mobile, AI, and 
 ### Skills & Expertise:  
 
  Frontend Development  
-✔️ React.js, Angular, Next.js  
-✔️ HTML, CSS, JavaScript, TypeScript   
+1) React.js, Angular, Next.js  
+2) HTML, CSS, JavaScript, TypeScript   
 
  Backend Development  
-✔️ Django, Flask, Node.js, Express.js  
-✔️ REST & GraphQL API development  
-✔️ Scalable and secure backend architectures  
+1) Django, Flask, Node.js, Express.js  
+2) REST & GraphQL API development  
+3) Scalable and secure backend architectures  
 
 Mobile App Development  
-✔️ Flutter, React Native  
-✔️ Android (Java, Kotlin), iOS (Swift)  
+1) Flutter, React Native  
+2) Android (Java, Kotlin), iOS (Swift)  
 
 Database Management  
-✔️ MySQL, PostgreSQL, MongoDB, Firebase  
+1) MySQL, PostgreSQL, MongoDB, Firebase  
 
 AI & Machine Learning  
-✔️ AI-driven recommendations and chatbots  
-✔️ TensorFlow, Scikit-learn
-✔️ Predictive analytics and automation  
+1) Predictive analytics and automation  
+2) TensorFlow, Scikit-learn 
 
 Blockchain & Web3  
-✔️ Solidity, Web3.js, Smart Contracts  
-✔️ Ethereum, IPFS, DApps  
+1) Solidity, Web3.js, Smart Contracts  
+2) Ethereum, IPFS, DApps  
 
 DevOps & Tools  
-✔️ Git, GitHub, GitLab, Docker  
-✔️ Postman, VS Code, CI/CD  
+1) Git, GitHub, GitLab, Docker  
+2) Postman, VS Code, CI/CD, Vim  
 
 
 ### Let’s Connect!  
