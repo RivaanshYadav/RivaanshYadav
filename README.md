@@ -5,7 +5,7 @@ Full-Stack Developer | Web & Mobile | AI, Blockchain & Web3
 I am a results-driven Full-Stack Developer specializing in web, mobile, AI, and blockchain solutions. With hands-on experience in building scalable applications, I deliver high-performance digital solutions tailored to businesses and startups. My expertise spans frontend & backend development, database management, AI-powered features, blockchain applications, and API integrations.  
 
 
-Skills & Expertise:  
+### Skills & Expertise:  
 
  Frontend Development  
 ✔️ React.js, Angular, Next.js  
@@ -37,5 +37,5 @@ DevOps & Tools
 ✔️ Postman, VS Code, CI/CD  
 
 
-Let’s Connect!  
+### Let’s Connect!  
 ✔️ Open to freelance projects, collaborations, and new opportunities.
