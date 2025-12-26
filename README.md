@@ -37,4 +37,4 @@ DevOps & Tools
 
 
 ### Let’s Connect!  
-✔️ Open to freelance projects, collaborations, and new opportunities.
+- Open to freelance projects, collaborations, and new opportunities.
