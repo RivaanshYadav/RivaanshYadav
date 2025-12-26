@@ -1,19 +1,15 @@
 # 👋 Hey, I'm Rivaansh Yadav!  
 
-Full-Stack Developer | Web & Mobile | AI, Blockchain & Web3 | Freelancer  
+Full-Stack Developer | Web & Mobile | AI, Blockchain & Web3
 
-Passionate about crafting innovative and scalable digital solutions.  
-Constantly exploring new technologies & enhancing my expertise.  
-Open to freelance projects, collaborations, and exciting opportunities.  
+I am a results-driven Full-Stack Developer specializing in web, mobile, AI, and blockchain solutions. With hands-on experience in building scalable applications, I deliver high-performance digital solutions tailored to businesses and startups. My expertise spans frontend & backend development, database management, AI-powered features, blockchain applications, and API integrations.  
 
 
-
-### Skills & Expertise  
+Skills & Expertise:  
 
  Frontend Development  
 ✔️ React.js, Angular, Next.js  
-✔️ HTML, CSS, JavaScript, TypeScript  
-✔️ UI/UX design for smooth user experiences  
+✔️ HTML, CSS, JavaScript, TypeScript   
 
  Backend Development  
 ✔️ Django, Flask, Node.js, Express.js  
@@ -22,26 +18,24 @@ Open to freelance projects, collaborations, and exciting opportunities.
 
 Mobile App Development  
 ✔️ Flutter, React Native  
-✔️ Android (Java, Kotlin), iOS (Swift, Objective-C)  
-✔️ Cross-platform and native app development  
+✔️ Android (Java, Kotlin), iOS (Swift)  
 
 Database Management  
 ✔️ MySQL, PostgreSQL, MongoDB, Firebase  
-✔️ Database optimization and performance tuning  
 
 AI & Machine Learning  
 ✔️ AI-driven recommendations and chatbots  
-✔️ TensorFlow, Scikit-learn  
+✔️ TensorFlow, Scikit-learn 
+✔️ Predictive analytics and automation  
 
 Blockchain & Web3  
 ✔️ Solidity, Web3.js, Smart Contracts  
-✔️ Ethereum, IPFS, Decentralized Apps (DApps)  
+✔️ Ethereum, IPFS, DApps  
 
 DevOps & Tools  
 ✔️ Git, GitHub, GitLab, Docker  
 ✔️ Postman, VS Code, CI/CD  
 
 
-## How to Reach Me  
-LinkedIn: Rivaansh Yadav  
-Portfolio Website: Coming Soon!  
+Let’s Connect!  
+✔️ Open to freelance projects, collaborations, and new opportunities.
