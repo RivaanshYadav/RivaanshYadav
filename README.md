@@ -25,7 +25,7 @@ Database Management
 
 AI & Machine Learning  
 ✔️ AI-driven recommendations and chatbots  
-✔️ TensorFlow, Scikit-learn 
+✔️ TensorFlow, Scikit-learn
 ✔️ Predictive analytics and automation  
 
 Blockchain & Web3  
